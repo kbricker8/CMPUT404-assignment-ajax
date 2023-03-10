@@ -2,7 +2,10 @@ CMPUT404-assignment-ajax
 ==============================
 
 Author:
-Kyle Bricker
+Kyle Bricker - kbricker
+
+Collaborators:
+ssaini
 
 CMPUT404-assignment-ajax
 
